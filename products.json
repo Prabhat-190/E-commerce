@@ -1,0 +1,80 @@
+[ 
+    {
+        "id": 1,
+        "name":"  SEV PURI","type":"STARTER",
+        "price": 25,
+        "image": "https://www.spiceupthecurry.com/wp-content/uploads/2015/05/sev-puri-1-1024x1536.jpg"
+    },
+    {
+        "id": 2,
+        "name":"  PAPDI CHAAT","type":"STARTER",
+        "price": 25,
+        "image": "https://www.spiceupthecurry.com/wp-content/uploads/2015/07/papdi-chaat-1-1024x1536.jpg"
+    },
+    {
+        "id": 3,
+        "name":"  PANEER PAKORA","type":"STARTER",
+        "price": 40,
+        "image": "https://www.spiceupthecurry.com/wp-content/uploads/2023/04/paneer-pakora-1-1024x1536.jpg"
+    },
+    {
+        "id": 4,
+        "name":"  ALOO PAKORA","type":"STARTER",
+        "price": 35,
+        "image": "https://www.spiceupthecurry.com/wp-content/uploads/2013/07/aloo-pakora-1-1024x1536.jpg"
+    },
+    {
+        "id": 5,
+        "name":"  PAKLAK PANEER","type":"MAIN COURSE",
+        "price": 100,
+        "image": "https://picturetherecipe.com/wp-content/uploads/2020/04/Palak-Paneer-PTR-Featured-1-395x500.jpg"
+    },
+    {
+        "id": 6,
+        "name":"  BUTTER CHICKEN","type":"MAIN COURSE",
+        "price": 200,
+        "image": "https://picturetherecipe.com/wp-content/uploads/2020/07/Butter-Chicken-PTR-Featured-395x500.jpg"
+    },
+    {
+        "id": 7,
+        "name":"  ALOO GOBI","type":"MAIN COURSE",
+        "price": 80,
+        "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/09/Indian-Aloo-Gobi-378x567.jpg"
+    },
+    {
+        "id": 8,
+        "name":"  DAL MAKHANI","type":"MAIN COURSE",
+        "price": 80,
+        "image": "https://www.cookwithmanali.com/wp-content/uploads/2019/04/Restaurant-Style-Dal-Makhani-378x567.jpg"
+    },{
+        "id": 9,
+        "name":"  CHICKEN BIRYANI","type":"MAIN COURSE",
+        "price": 150,
+        "image": "https://www.tasteofhome.com/wp-content/uploads/2021/01/the-hyderabadi-chicken-biryani-is-photographed-at-akshaya-168918303.jpg?fit=700%2C700?fit=700,700"
+    },{
+        "id": 10,
+        "name":"  APPLE PIE","type":"DESSERTS",
+        "price": 90,
+        "image": "https://www.listchallenges.com/f/items/06066006-6537-493f-ab64-7bc8c3b7b2cb.jpg"
+    },{
+        "id": 11,
+        "name":"  BUTTERSCOTCH CHEESECAKE","type":"DESSERTS",
+        "price": 80,
+        "image": "https://www.listchallenges.com/f/items/4a1c244d-2168-42d6-adb7-8de0bcfcb2ba.jpg"
+    },{
+        "id": 12,
+        "name":"  CUSTARD TART","type":"DESSERTS",
+        "price": 50,
+        "image": "https://www.listchallenges.com/f/items/2528612c-0889-464e-bdea-c6b9ba004ef7.jpg"
+    },{
+        "id": 13,
+        "name":"  ICECREAM CAKE","type":"DESSERTS",
+        "price": 50,
+        "image": "https://www.listchallenges.com/f/items/2c267861-f9c0-458b-9560-e62b29199de4.jpg"
+    },{
+        "id": 14,
+        "name":"  ICECREAM","type":"DESSERTS",
+        "price": 40,
+        "image": "https://www.listchallenges.com/f/items/392e5f56-d7de-43e5-9c52-cf733bf1b50f.jpg"
+    }
+]
